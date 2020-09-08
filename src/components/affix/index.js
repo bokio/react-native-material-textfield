@@ -4,6 +4,8 @@ import { Animated } from 'react-native';
 
 import styles from './styles';
 
+// etst
+
 export default class Affix extends PureComponent {
   static defaultProps = {
     numberOfLines: 1,
